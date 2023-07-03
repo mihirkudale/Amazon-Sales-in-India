@@ -1,1 +1,1 @@
-# Amazon-Sales-in-India-Dashboard-in-Tableau
+# Amazon-Sales-in-India-Tableau-Project
